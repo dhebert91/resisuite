@@ -1,7 +1,7 @@
 # ResiSuite
 ### What is it ?
 **ResiSuite** consists of a serie of collaborative tools for sharing practical information about Self-Sufficiency, Transition, Permaculture and Resilience.
-It uses the Qinoa Framework (PHP) and AngularJS, and aims to be as resilient as possible.
+It uses the Quinoa Framework (PHP) and AngularJS, and aims to be as resilient as possible.
  
 ### Tools
 This project curently includes 
